@@ -8,7 +8,17 @@ end
 def breakfast(breakfast="Frosted Flakes")
   puts "Morning is the best time for #{breakfast}!"
 end 
-def lunch(lunch="grilled cheese" )
+breakfast
+def lunch(lunch="grilled cheese")
+  puts "Lunch is the best time for #{lunch}!"
+end 
+lunch
+def dinner(dinner="salmon")
+  puts "Evening is the best tume for #{dinner}!"
+end 
+dinner
+
+
   
 
 
